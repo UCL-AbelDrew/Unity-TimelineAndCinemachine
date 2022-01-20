@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/FightSequence.unity
+- path: Assets/Scenes/AutoDollyFollow.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
